@@ -1,0 +1,26 @@
+1.  REST_API:-
+GET/users-> list all users
+GET/users/1 -> get user with id=1
+POST/users -> create new user
+PATCH/user/1 ->  edit the suer with id =1 
+DELETE/user/1 -> delete user with id=1
+
+2.  HTTP STATUS CODES
+//100-199   Informational
+//200-299   Successful response
+//300-399   Redirectional Message
+//400-499   Client Error response   
+//500-599   Server Error response
+
+3.  Important HTTP STATUS CODES
+CREATED (201)
+NO CONTENT (204) 
+BAD REQUEST (400)
+UNAUTHORIZED (401)
+FORBIDDEN (403) 
+NOT FOUND (404)
+CONFLICT (409) 
+
+
+
+
